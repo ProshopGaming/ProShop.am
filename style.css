@@ -1,0 +1,273 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+  background-image: url("./img/ProShop\ fon.jpg");
+
+  background-size: cover;
+}
+
+
+
+.Logo{
+    width: 500px;
+    height: 200px;
+    margin: 10px;
+    display: flex;
+}
+
+
+
+.Market{
+    position: absolute;
+    top: 70px;
+    left: 1280px;
+    opacity: 0.80;
+}
+.Market:hover {
+    opacity: 1;
+}
+
+.Discord{
+   position: absolute;
+   top: 40px;
+   left: 880px;
+   opacity: 0.80;
+}
+
+.Discord:hover {
+    opacity: 1;
+}
+
+.Telegram {
+    position: absolute;
+    top: 60px;
+    left: 1040px;
+    opacity: 0.80;
+}
+
+.Telegram:hover {
+    opacity: 1;
+}
+
+.YouTube {
+    position: absolute;
+    top: 70px;
+    left: 1130px;
+    opacity: 0.80;
+}
+
+.YouTube:hover {
+    opacity: 1;
+}
+
+.Shop-web {
+   
+   width: 600px;
+   height: 200px;
+   position: absolute;
+   top: 500px;
+   left: 50px;
+
+   background-image: url("./img/Kumayri-rp-ProShop.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
+
+
+.shop-web1 {
+  background-color: mediumseagreen;
+  width: 600px;
+  height: 100px;
+  position: absolute;
+  top: 700px;
+  left: 50px;
+
+  /* border-top: 3px solid mediumaquamarine; */
+  border-bottom: 2px solid mediumaquamarine;
+  border-left: 2px solid mediumaquamarine;
+  border-right: 2px solid mediumaquamarine;
+}
+
+.links-button {
+   width: 90px;
+    background-color: rgb(6, 236, 148);
+    border-radius: 100px;
+    text-decoration: none;
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 70px;
+    left: 10px;
+}
+
+.shop-web2 {
+    width: 600px;
+    height: 200px;
+    background-image: url("./img/ProShop-Ejmiatsin-rp.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 900px;
+    left: 50px;
+}
+
+.shop-web1-1 {
+  width: 600px;
+  height: 90px;
+  background-color: rgb(78, 248, 163);
+  position: absolute;
+  top: 1100px;
+  left: 50px;
+  border-bottom:2px solid rgb(78, 248, 163);
+  border-left: 2px solid rgb(78, 248, 163);
+  border-right: 2px solid rgb(78, 248, 163);
+}
+
+.links-buttons {
+    width: 90px;
+     background-color: rgb(6, 236, 148);
+     border-radius: 100px;
+     text-decoration: none;
+     position: absolute;
+     color: white;
+     text-align: center;
+     top: 70px;
+     left: 10px;
+ }
+
+ .Shop-web3 {
+    width: 600px;
+    height: 250px;
+    background-image: url("./img/ProShop\ -\ Aurora.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 1300px;
+    left: 50px;
+ }
+
+ .shop-web3-3 {
+    width: 600px;
+    height: 90px;
+    background-color: rgb(78, 248, 163);
+    position: absolute;
+    top: 1550px;
+    left: 50px;
+ }
+
+ .links-butons {
+    width: 90px;
+    background-color: rgb(6, 236, 148);
+    border-radius: 100px;
+    text-decoration: none;
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 70px;
+    left: 10px;
+ }
+
+
+ .Shop-web4 {
+    width: 600px;
+    height: 230px;
+    background-image: url("./img/ProShop\ -\ Radmir\ rp.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 1750px;
+    left: 50px;
+ }
+
+ .shop-web4-4 {
+    width: 600px;
+    height: 90px;
+    background-color: rgb(78, 248, 163);
+    position: absolute;
+    top: 1980px;
+    left: 50px;
+ }
+
+ .buttons {
+    width: 90px;
+    background-color: rgb(6, 236, 148);
+    border-radius: 100px;
+    text-decoration: none;
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 70px;
+    left: 10px;
+ }
+
+ .Shop-web5 {
+    width: 600px;
+    height: 300px;
+    background-image: url("./img/ProShop\ -\ Energy\ rp.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 2180px;
+    left: 50px;
+ }
+
+ .shop-web5-5 {
+    width: 600px;
+    height: 90px;
+    background-color: rgb(78, 248, 163);
+    position: absolute;
+    top: 2480px;
+    left: 50px;
+ }
+
+ .button {
+    width: 90px;
+    background-color: rgb(6, 236, 148);
+    border-radius: 100px;
+    text-decoration: none;
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 70px;
+    left: 10px;
+ }
+
+ .person {
+    position: absolute;
+    top: 800px;
+    left: 700px;
+ }
+
+ .person-1 {
+    position: absolute;
+    top: 1700px;
+    left: 700px;
+ }
+
+ .Energy {
+    position: absolute;
+    top: 2230px;
+    left: 700px;
+ }
+
+
+ .quantity {
+    background: red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    position: absolute;
+    top: -5px;
+    left: 30px;
+    padding: 3px 10px;
+ }
+
+ 
